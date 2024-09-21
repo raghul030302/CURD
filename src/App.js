@@ -33,7 +33,7 @@ function App() {
   return (
     <div id="App">
       <NavBar/>
-      <section className='home'>
+      <section className='home bg-body-secondary'>
       <p>Service Provider of a wide range of services which include Online Product Delivery, Hyper Local Delivery, COD Experts, Cash Delivery Services, Domestic Courier Services and Local Courier Services</p>
       </section>
       <section id='delmanage' className='bg-light'>
